@@ -28,3 +28,4 @@ print(name)
 #Metodo remove(val) para eliminar elementos por valor
 name.remove("Vharly")
 print(name)
+
